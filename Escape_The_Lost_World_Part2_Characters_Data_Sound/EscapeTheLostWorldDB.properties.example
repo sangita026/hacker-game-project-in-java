@@ -1,5 +1,0 @@
-host=localhost
-port=3306
-database=escape_lost_world
-user=root
-password=YOUR_MYSQL_PASSWORD
